@@ -2,7 +2,7 @@
 SSD
 
 
-Class ID:  
+Class ID:  Illumise
 
 SRS ID: CST116SRS06  
 
@@ -11,8 +11,10 @@ Unresolved Issues:
 Notes:  
 
 Partner Left:  
+Hassan
 
 Partner Right:  
+Omar
 
 ---
 
